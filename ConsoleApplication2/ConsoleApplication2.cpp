@@ -9,6 +9,7 @@ int main()
 	int a;
 	printf("hello world");
 	scanf("%d", &a);
+	int b;
 
 	return 0;
 

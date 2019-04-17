@@ -10,7 +10,7 @@ int main()
 	printf("hello world");
 	scanf("%d", &a);
 
-	return 0;
+	
 
 }
 

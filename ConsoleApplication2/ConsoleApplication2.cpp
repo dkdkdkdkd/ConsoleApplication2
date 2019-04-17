@@ -3,10 +3,12 @@
 
 #include "pch.h"
 #include <iostream>
-
+#include<stdio.h>
 int main()
 {
-    std::cout << "Hello World!\n"; 
+	int a;
+	printf("hello world");
+	scanf("%d", &a);
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
